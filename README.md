@@ -4,7 +4,7 @@
 
 **Build**:  `> npm run build` -- required before running app, yes the `run` is necessary. Generates the _bundle.js_ file in the _build_ folder.
 
-**Run**:  open _index.html_ in the _build_ folder to view app, `npm start` currently broken (not sure what it does in this example)
+**Run**:  open _index.html_ in the _build_ folder to view app, `npm start` currently broken (it's probably supposted to spin up the web server to host the HTML)
 
 ## Background & Outside Credit
 
