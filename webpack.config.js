@@ -20,7 +20,8 @@ module.exports =  {
         inline: true,
         progress: true,
       // Display only errors to reduce the amount of output.
-      status: 'errors-only',
+      // Commenting out status. Seems to be deprecated.
+      // status: 'errors-only',
             // Parse host and port from env so this is easy to customize.
       // 0.0.0.0 is available to all network devices unlike default
       // localhost
