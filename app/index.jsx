@@ -22,7 +22,7 @@ class App extends React.Component {
                   title="Hello World!"
                   iconClassNameRight="muidocs-icon-navigation-expand-more"
                 />
-                <h1>Material-UI</h1>
+                <h1>Material-UI Example</h1>
                 <h2>example using Material-UI and React</h2>
                 <RaisedButton label="Raised Button" secondary={true} />
                 <FlatButton label="Flat Button" secondary={true}/>
